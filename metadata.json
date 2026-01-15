@@ -1,0 +1,7 @@
+{
+  "name": "GeoCoord Pro",
+  "description": "A comprehensive geological engineering coordination platform for synchronizing field operations and office reporting with role-based access control.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
